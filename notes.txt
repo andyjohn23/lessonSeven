@@ -1,0 +1,7 @@
+display: flex, grid, inline-block 
+css positioning - static, relative, fixed, sticky and absolute
+static - normal flow of the document/default positioning of elements on a webpage
+relative - normal flow of the document,
+fixed - disrupts the normal flow of the document,
+sticky - 
+z-index - 
